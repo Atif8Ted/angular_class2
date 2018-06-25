@@ -6,8 +6,6 @@ import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
-import { HeaderoneComponent } from './headerone/headerone.component';
-import { FooteroneComponent } from './footerone/footerone.component';
 import { ServerComponent } from './server/server.component';
 import { ServersComponent } from './servers/servers.component';
 import { LoginPageComponent } from './login-page/login-page.component';
@@ -22,8 +20,6 @@ import { AppBetterHighlightDirective } from './app-better-highlight.directive';
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    HeaderoneComponent,
-    FooteroneComponent,
     ServerComponent,
     ServersComponent,
     LoginPageComponent,
